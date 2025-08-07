@@ -390,8 +390,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, issues, or suggestions:
 
-- **GitHub Issues**: [Create an issue](https://github.com/yourusername/pneumonia-detection/issues)
-- **Email**: your.email@example.com
+- **GitHub Issues**: [Create an issue](https://github.com/abbgael/plp-ai-final/issues)
+- **Email**: abgaelrehema@gmail.co
 - **Documentation**: Check this README and code comments
 
 ---
